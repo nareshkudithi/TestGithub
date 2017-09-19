@@ -1,0 +1,87 @@
+CIDPATTERN,FORMULATED_SENTENCE,DOCID,SENTENCE_NUM
+#C induce #D,#C induced #D,439781,0
+#D induce by #C,#D induced by #C and,22836123,0
+#D induce by #C,#D induced by #C and,22836123,4
+#D due to #C,#D due to #C are,23846525,4
+#D associate with #C,#D associated with #C therapy.,24088636,3
+#D due to #C,"#D due to #C injection,",24535067,7
+#D induce by #C,#D induced by #C,24641119,0
+#D due to #C,#D due to #C #D.,24653743,0
+#D cause by #C,#D caused by #C in,24664478,15
+#D after #C,#D after #C,24671324,0
+#D induce by #C,#D induced by #C and,24894748,1
+#D due to #C,#D due to #C overtreatment.,24897009,0
+#D induce by #C,#D induced by #C therapy.,24975837,8
+#C induce #D,#C induced #D which,25041770,6
+#D after #C,#D after #C injection,25096313,0
+#D associate with #C,#D associated with #C use,17721298,4
+#D after #C,#D after #C and,19681452,0
+#D after #C,#D after HD-#C therapy,20009434,2
+#D associate with #C,#D associated with #C medication,146391,4
+#D associate with #C,#D associated with #C therapy,448423,0
+#D induce by #C,#D induced by #C were,1158089,2
+#D cause by #C,#D caused by #C,1289188,4
+#D induce by #C,#D induced by #C therapy.,1420650,0
+#D associate with #C,#D associated with #C treatment,1564030,0
+#D due to #C,#D due to #C,2083961,0
+#D induce by #C,#D induced by #C and,2173761,5
+#D induce by #C,#D induced by #C and,2553470,6
+#C induce #D,#C induced #D,2614930,0
+#D due to #C,#D due to #C,2710809,0
+#D induce by #C,#D induced by #C receptors.,2710809,3
+#D induce by #C,#D induced by #C with,2718706,0
+#D after #C,#D after #C administration.,2818777,1
+#D cause by #C,#D caused by #C were,3125850,3
+#D cause by #C,#D caused by #C in,3125850,6
+#D after #C,#D after #C administration.,3297909,0
+#D induce by #C,#D induced by #C,3375885,0
+#D due to #C,#D due to #C treatment,3409843,1
+#D due to #C,#D due to #C this,3409843,2
+#D induce by #C,#D induced by #C (10,6687006,2
+#D induce by #C,#D induced by #C,6985297,0
+#D induce by #C,#D induced by #C and,7147232,0
+#D induce by #C,#D induced by #C was,7147232,6
+#D induce by #C,#D induced by #C,7315949,0
+#D associate with #C,#D associated with #C therapy,7727612,0
+#C induce #D,#C induces #D,8135424,0
+#C induce #D,#C induced #D,8511251,0
+#D induce by #C,#D induced by #C,8511251,1
+#D induce by #C,#D induced by #C,8667442,0
+#D induce by #C,#D induced by #C is,9061777,10
+#C induce #D,#C induced #D,10677406,2
+#C induce #D,#C induced #D,10677406,12
+#C induce #D,#C induces #D and,11708428,0
+#C induce #D,#C induced #D and,11708428,12
+#D after #C,#D after #C prophylaxis,11988250,0
+#D after #C,#D after #C administration,11988250,1
+#D associate with #C,#D associated with #C is,12051122,9
+#D after #C,#D after #C use.,12359538,4
+#D due to #C,#D due to #C (#C).,12372954,0
+#D cause by #C,#D caused by #C,12498738,1
+#C and the risk of #D,#C and the risk of #D,12535818,0
+#D due to #C,#D due to #C #D.,12828076,0
+#C induce #D,#C induced #D,15265979,3
+#D induce by #C,#D induced by #C,15627798,0
+#D induce by #C,#D induced by #C,15627798,11
+#D associate with #C,#D associated with #C was,15882284,10
+#D induce by #C,"#D induced by #C (#C),",15987266,2
+#D induce by #C,#D induced by #C treatment,16731636,5
+#D induce by #C,#D induced by #C (#C),16810074,0
+#D cause by #C,#D caused by #C,17028363,2
+#D due to #C,#D due to #C exposure.,17384765,7
+#D associate with #C,#D associated with #C secondary,18025637,1
+#D induce by #C,#D induced by #C (#C).,18189308,3
+#C induce #D,#C induced #D,19263707,0
+#C induce #D,#C induced #D case,19263707,8
+#D induce by #C,#D induced by #C Evidence,19447152,0
+#D associate with #C,#D associated with #C including,19553912,5
+#D from #C,#D from #C and,19728177,2
+#D from #C,#D from #C which,19728177,3
+#D from #C,#D from #C and,19728177,5
+#D associate with #C,#D associated with #C,19815465,8
+#D after #C,#D after #C administration.,19920070,0
+#C induce #D,#C induced #D (#D),20129423,0
+#C induce #D,#C induced #D reported,20129423,7
+#D induce by #C,#D induced by #C administration,20192893,8
+#D after #C,#D after #C injection,20513036,0
+#D after #C,#D after #C injection,20513036,14
